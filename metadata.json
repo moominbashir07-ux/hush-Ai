@@ -1,0 +1,6 @@
+{
+  "name": "HUSH — Attention-Aware AI Copilot",
+  "description": "An attention-aware AI copilot with an intelligent 3D neural presence that evaluates conversational timing, importance, and confidence before deciding whether to respond.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
